@@ -1,0 +1,27 @@
+body{   
+    background-image: url(img/crown.jpg);
+    background-size: 30%;
+    background-color: transparent;                  
+    border: 6mm ridge rgba(184, 5, 145, 0.911);
+}
+
+.selfie{
+    background-image: no-repeat url(img/IMG_0627.jpg), url(img/crown.jpg);
+    background-size: 20%;
+    background-color: transparent;
+    border: 2mm ridge white;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+P{
+    background-image: none;
+    background-color: transparent;
+    text-indent: unset;;
+    text-align: left;
+    color: white;
+    font-size: large;
+    transform: unset;
+}
